@@ -1,0 +1,12 @@
+C:\Users\Luis\Documents\Programación\Visual Studio\CECUN_PROYECTO\obj\Debug\CECUN_PROYECTO.csproj.AssemblyReference.cache
+C:\Users\Luis\Documents\Programación\Visual Studio\CECUN_PROYECTO\obj\Debug\CECUN_PROYECTO.presentacion.frmConectar.resources
+C:\Users\Luis\Documents\Programación\Visual Studio\CECUN_PROYECTO\obj\Debug\CECUN_PROYECTO.presentacion.frmEmpleados.resources
+C:\Users\Luis\Documents\Programación\Visual Studio\CECUN_PROYECTO\obj\Debug\CECUN_PROYECTO.Properties.Resources.resources
+C:\Users\Luis\Documents\Programación\Visual Studio\CECUN_PROYECTO\obj\Debug\CECUN_PROYECTO.csproj.GenerateResource.cache
+C:\Users\Luis\Documents\Programación\Visual Studio\CECUN_PROYECTO\obj\Debug\CECUN_PROYECTO.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Documents\Programación\Visual Studio\CECUN_PROYECTO\bin\Debug\CECUN_PROYECTO.exe.config
+C:\Users\Luis\Documents\Programación\Visual Studio\CECUN_PROYECTO\bin\Debug\CECUN_PROYECTO.exe
+C:\Users\Luis\Documents\Programación\Visual Studio\CECUN_PROYECTO\bin\Debug\CECUN_PROYECTO.pdb
+C:\Users\Luis\Documents\Programación\Visual Studio\CECUN_PROYECTO\obj\Debug\CECUN_PROYECTO.exe
+C:\Users\Luis\Documents\Programación\Visual Studio\CECUN_PROYECTO\obj\Debug\CECUN_PROYECTO.pdb
+C:\Users\Luis\Documents\Programación\Visual Studio\CECUN_PROYECTO\obj\Debug\CECUN_PROYECTO.exe.config
